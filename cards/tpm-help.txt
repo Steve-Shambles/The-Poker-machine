@@ -1,0 +1,89 @@
+The Poker Machine V1.2 By Steve Shambles March 2023
+
+Tested on:
+Windows 7
+Linux Mint 19.1
+-----------------------
+
+Introduction
+-------------
+This game is a fairly good representation of a 9/6 Jacks or better
+video poker game.
+
+A 9\6 machine pays $9 for a full house and $6 for a flush to a $1 stake.
+This is the optimum payout for jacks or better video poker.
+
+
+Playing the game:
+-----------------
+Each new game starts you off with a bank of $100.
+If you get higher than that it will be stored as your high score.
+Your high score is saved to disc and re-loaded the next time you 
+play the game, giving you a long-term target to try to beat.
+
+
+Once the game has loaded up:
+----------------------------
+1. First choose the stake you would like to bet for the next game.
+   Click on the orange "Stake" button and it will roll around $1 to $5.
+   The default is $1, so if you are betting $1 there is no need to change it.
+
+2. Now click on the green "Deal" button to see your five cards.
+
+3. You can now click on the hold buttons (or the cards themselves), to hold
+   any cards that you wish to keep in an effort to make a winning hand.
+   You can un-hold a card by clicking on it a second time.
+
+4. In the message window above the cards it will let you know
+   if you have been dealt a winning hand or not.
+   The minimum winning hand is a pair of Jacks,
+   and they only pay your stake back.
+   
+   If you do not know how Poker hands work then read this page:
+   https://www.pokerstars.uk/poker/games/rules/hand-rankings/
+   
+5. Now click on the blue "Draw" button to get new cards to replace the
+   cards that you didn't hold.
+
+6. After the new cards are drawn, a pop up message will let you know
+   the outcome of the game. If you have a winning hand it will show
+   how much you have won.
+   
+   Any winnings will be added to your bank.
+   Your high score will be updated, and saved if you have beaten 
+   your previous high-score.
+   
+   Now go to step 1 and repeat.
+   
+The drop-down menu
+-------------------
+At the top left of the game window you will see the word "Menu".
+Left click on the "Menu" and the following options will appear:
+
+Help:
+This file.
+
+About:
+Program information.
+
+Python source code on GitHub:
+For programmers interested in the Python source code.
+
+Make a small donation:
+if you enjoy this game and want to reward my work,
+then click this menu item and it will take you to a
+PayPal page where you can donate as little or as much
+as you please. You know it makes sense!
+
+Exit:
+I don't know what this option does.
+
+
+That covers just about everything.
+I hope you enjoy playing the game.
+
+Steve Shambles
+V1.0 September 1st 2019,
+v1.1 December 9th 2019.
+[took a few years off of programming here]
+V1.2 March 2nd 2023
