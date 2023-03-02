@@ -87,9 +87,7 @@ Exit:
 I don't know what this option does.
 
 
-That covers just about everything.
-
-I hope you enjoy playing the game.
+That covers just about everything. I hope you enjoy playing the game.
 
 Steve Shambles
 V1.0 September 1st 2019,
