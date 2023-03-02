@@ -2,7 +2,7 @@
 A full cross-platform Poker machine in Python with GUI
 
 
-https://github.com/Steve-Shambles/The-Poker-machine/blob/main/tpm-v1-2-screenshot.png
+![Alt Text](https://github.com/Steve-Shambles/The-Poker-machine/blob/main/tpm-v1-2-screenshot.png)
 
 
 The Poker Machine V1.2 By Steve Shambles March 2023
