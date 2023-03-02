@@ -77,6 +77,7 @@ Python source code on GitHub:
 For programmers interested in the Python source code.
 
 Make a small donation:
+
 if you enjoy this game and want to reward my work,
 then click this menu item and it will take you to a
 PayPal page where you can donate as little or as much
@@ -87,10 +88,14 @@ I don't know what this option does.
 
 
 That covers just about everything.
+
 I hope you enjoy playing the game.
 
 Steve Shambles
 V1.0 September 1st 2019,
+
 v1.1 December 9th 2019.
+
 [took a few years off of programming here]
+
 V1.2 March 2nd 2023
